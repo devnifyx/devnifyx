@@ -4,7 +4,7 @@
 
 ## 🔒 Cyber Security Student • 🤖 AI Engineer • 💻 Full Stack Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Cyber+Security+Student;AI+Engineer;Full+Stack+Developer;Building+Secure+Applications"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Cyber+Threat+Intelligence+Analyst;Cyber+Security+Student;AI+Engineer;OSINT+&+Threat+Analysis;Aspiring+Red+Team"/>
 
 </div>
 
@@ -46,7 +46,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+<img src="./spaceshooter.gif" />
 
 </div>
 
