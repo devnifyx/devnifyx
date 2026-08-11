@@ -1,4 +1,4 @@
-# 👋 Muhammad Hanif
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=devnifyx&theme=github-dark&mode=light" />
@@ -8,7 +8,7 @@
 
 <div align="center">
 
-## Aspiring Red Teamer | Offensive Security Building tools for enumeration, exploitation, and evasion. Think like an attacker. Engineer like a defender.
+## Aspiring Red Teamer | Offensive Security Building tools for enumeration, exploitation, and evasion | Think like an attacker | Engineer like a defender.
 
 </div>
 
