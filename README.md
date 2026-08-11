@@ -1,147 +1,144 @@
+# 👋 Muhammad Hanif
+
 <div align="center">
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Muhammad Hanif
+## 🔒 Cyber Security Student • 🤖 AI Engineer • 💻 Full Stack Developer
 
-### 🔒 Cyber Security Student • 🤖 AI Engineer • 💻 Full Stack Developer
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Cyber+Security+Student;AI+Engineer;Full+Stack+Developer;Building+Secure+Applications;Always+Learning+New+Things" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f172a,50:2563eb,100:06b6d4&text=Welcome%20to%20My%20GitHub&fontAlign=50&fontColor=ffffff&fontSize=40"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Cyber+Security+Student;AI+Engineer;Full+Stack+Developer;Building+Secure+Applications"/>
 
 </div>
 
 ---
 
-# 💫 About Me
+# 📊 GitHub Dashboard
 
-```yaml
-Name: Muhammad Hanif
+<table>
+<tr>
+<td width="33%" align="center">
 
-Education:
-  Bachelor of Information Technology (Hons)
-  Cyber Security
+### 📈 GitHub Stats
 
-Current Focus:
-  • AI Engineering
-  • Cyber Security
-  • Full Stack Development
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-Interests:
-  • Artificial Intelligence
-  • OSINT
-  • Threat Intelligence
-  • Penetration Testing
-  • Cloud Computing
-```
+</td>
 
----
+<td width="33%" align="center">
 
-# 🚀 Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,nodejs,react,nextjs,express,mongodb,mysql,mariadb,docker,linux,git,github,vscode,bash,html,css&perline=9"/>
-
-</p>
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
+### 🔥 Streak Stats
 
 <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
 
-</p>
+</td>
 
----
+<td width="33%" align="center">
 
-# 📈 Contribution Graph
+### 💻 Top Languages
 
-<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&margin-w=15&row=2&column=4"/>
-
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
 # 🎮 Contribution Game
 
-> 🚀 Your GitHub contributions become a game.
-
-<p align="center">
+<div align="center">
 
 <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
 
-</p>
+</div>
 
 ---
 
-# 🛠 Featured Projects
+# 🛠️ Tech Stack
 
-| Project | Description | Tech |
-|----------|-------------|------|
-| 🔒 LekirraX | AI Driven OSINT Threat Intelligence Platform | Python • MariaDB |
-| 🎮 Cyber Hygiene Simulation | Interactive cybersecurity awareness game | Unity • C# |
-| 🤖 AI Automation | AI powered automation tools | Python • OpenAI |
-| 🌐 Portfolio | Personal website | Next.js |
+<div align="center">
 
----
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,nodejs,react,nextjs,express,mongodb,mysql,mariadb,docker,git,github,linux,bash,vscode,unity,cs&perline=9"/>
 
-# 📚 Currently Learning
-
-```text
-██████████████████████░░░░░  AI Engineering
-
-██████████████████░░░░░░░░░  Cloud Security
-
-████████████████████░░░░░░░  DevSecOps
-
-███████████████████████░░░░ OSINT
-```
+</div>
 
 ---
 
-# 🌐 Connect With Me
+# 🚀 Featured Projects
 
-<p align="center">
+<table>
+<tr>
+<td width="50%">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+## 🔒 LekirraX
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+AI Driven OSINT Based Cyber Threat Intelligence Platform
 
-<a href="https://YOUR_PORTFOLIO">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
-</a>
+**Tech**
 
-</p>
+Python • MariaDB • AI
+
+</td>
+
+<td width="50%">
+
+## 🎮 Cyber Hygiene Simulation
+
+Interactive Cyber Hygiene Simulation Game
+
+**Tech**
+
+Unity • C#
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+## 🤖 AI Automation
+
+LLM Powered Automation Tools
+
+**Tech**
+
+Python • OpenAI
+
+</td>
+
+<td width="50%">
+
+## 🌐 Portfolio Website
+
+Personal Portfolio
+
+**Tech**
+
+Next.js • Tailwind CSS
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=2&column=4"/>
+
+</div>
+
+---
+
+# 📫 Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN)
+
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail)](mailto:YOUR_EMAIL)
+
+</div>
 
 ---
 
@@ -149,8 +146,13 @@ Interests:
 
 ![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge)
 
-### ⭐ Thanks for visiting!
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f172a,50:2563eb,100:06b6d4"/>
+⭐ Thanks for visiting my profile!
 
 </div>
+
+## Setup
+
+1. Replace `YOUR_USERNAME` with your GitHub username.
+2. Create a repository with the same name as your username.
+3. Paste this README into that repository.
+4. Configure the snake GitHub Action to generate `output/github-contribution-grid-snake-dark.svg`.
